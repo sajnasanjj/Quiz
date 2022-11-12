@@ -1,0 +1,57 @@
+.container {
+    background-color: rgb(43, 20, 39);
+    width: 97%;
+    justify-content: center;
+    height :100%;
+    margin: 0px 10px;
+    padding: 0px 10px;
+    border-radius: 20px;
+    align-items: center;
+}
+.Question {
+    color: white;
+    
+    text-align: center;
+}
+.next-button{
+   align-content: center;
+   justify-content: center;
+   align-items: center;
+   font-weight: 700;
+   background-color: orange;
+   margin-left: 500px;
+
+   padding: 10px;
+
+
+}
+.Box{
+    margin: 50px 15px;
+}
+
+.options {
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+
+}
+
+.completed {
+    color: orange;
+    justify-content: center;
+}
+.score-section{
+    color: orange;
+    justify-content: center;
+    font-size: larger;
+}
+.correct {
+    background-color: green;
+}
+
+.answer-list{
+    height: 200px;
+    margin-left: 10px;
+}

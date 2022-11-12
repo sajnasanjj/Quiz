@@ -1,0 +1,15 @@
+.Navbar {
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+.Navbar-items {
+    display: flex;
+    margin-left: 20px;
+}
+.Navbar .play {
+    border: 1px solid rgba(46, 45, 45, 0.514);
+    padding: 0px 10px;
+    background-color:  rgba(46, 45, 45, 0.514);
+    margin-left: 20px;
+}
